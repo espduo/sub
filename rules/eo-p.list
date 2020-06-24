@@ -1,0 +1,20 @@
+DOMAIN-SUFFIX,qnap.com
+DOMAIN-SUFFIX,qnapclub.eu
+DOMAIN-SUFFIX,inoreader.com
+DOMAIN-SUFFIX,jdownloader.org
+DOMAIN-SUFFIX,jdownloader.net
+DOMAIN-SUFFIX,appwork.org
+DOMAIN-SUFFIX,katfile.com
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,sis001.com
+DOMAIN-SUFFIX,icysleep.me
+DOMAIN-SUFFIX,icysleep.info
+DOMAIN-SUFFIX,yuoimg.com
+# > TikTok
+USER-AGENT,TikTok*
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-KEYWORD,-tiktokcdn-com
